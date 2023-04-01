@@ -1,0 +1,10 @@
+name: Birinchi workflow
+on: workflow_dispatch
+jobs:
+  first-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Greeting
+        run: echo "Alamli dunyoda alamli gulim."
+      - name: Print Good-Bye
+        run: echo "Qora tun bo'ldi dunyo!!!"
