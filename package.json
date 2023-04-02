@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "name": "gh_actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
