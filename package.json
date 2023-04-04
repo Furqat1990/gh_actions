@@ -5,7 +5,9 @@
   "name": "gh_actions",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  },
   "scripts": {
     "test": "jest"
   },
